@@ -1,6 +1,6 @@
-# Prodigy InfoTech Data Science Internship Task 1:
+<img width="1689" height="956" alt="Screenshot 2026-06-15 135754" src="https://github.com/user-attachments/assets/82489b65-e9e4-4a92-8fff-3b196dc65eaf" /># Prodigy InfoTech Data Science Internship Task 1:
 <br>
-<img src="https://github.com/kindo-tk/PRODIGY_DS_01/blob/main/ds1.png"   >
+<img [https://1drv.ms/i/c/a3e56b9ca367eece/IQDj5mt5OxADQJZdYQedXh1bAW5ZGbtOsPEDqKkYwLNhHLE?e=PmaXni](https://1drv.ms/i/c/a3e56b9ca367eece/IQDj5mt5OxADQJZdYQedXh1bAW5ZGbtOsPEDqKkYwLNhHLE?e=rqZ9x6) >
 
 Welcome to my submission for Task 1 of the Data Science Internship at `Prodigy Infotech`. In this task, I have performed Exploratory Data Analysis (EDA) on a dataset provided, focusing on creating a visualization to represent the distribution of a categorical or continuous variable.
 
